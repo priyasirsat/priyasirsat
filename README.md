@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Priya Sirsat</h1>
-<h3 align="center">A pre-final year student of ECE at AISSMS Institute of Information technology, MERN stack and Project Management Intern. Data Science | Machine Learning | Artificial Intelligence Enthusiast.</h3>
+<h3 align="center">A Masters in Engineering Management student at Johns Hopkins University. MERN stack and Project Management Intern. Data Science | Machine Learning | Artificial Intelligence Enthusiast.</h3>
 
 - 🔭 I’m currently working on **Social Media Website using MERN Stack**
 
